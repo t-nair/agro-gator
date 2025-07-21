@@ -86,4 +86,4 @@ Additional features to add, in no particular order. Bolded is what I will be try
 - Uncertainty quantification: integrating methods for uncertainty estimation like Bayesian NNs or ensemble methods
 - Real-time/near real-time prediction
 - Integration with economic models to inform agricultural policy, supply chain management, market analysis
-**- Integrating pathogen presence/severity**
+- **Integrating pathogen presence/severity**
