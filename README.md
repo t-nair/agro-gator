@@ -1,3 +1,5 @@
+<img width="2560" height="1440" alt="White Aesthetic Modern Fashion News Email Header (2)" src="https://github.com/user-attachments/assets/56fa156f-9f87-4f96-992c-832e33beaf92" />
+
 # 🐊 AgroGator: A Generalized Crop Yield Estimator
 A fully-generalizable multi-modal deep learning system trained once on diverse agricultural source regions (Europe + North America), designed to predict crop yields accurately across novel regions—without per-region fine-tuning.
 
