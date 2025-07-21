@@ -1,5 +1,5 @@
 # 🐊 AgroGator: A Generalized Crop Yield Estimator
-A fully-Generalizable multi-modal deep learning system trained once on diverse agricultural source regions (Europe + US), designed to predict crop yields accurately across novel regions—without per-region fine-tuning.
+A fully-generalizable multi-modal deep learning system trained once on diverse agricultural source regions (Europe + North America), designed to predict crop yields accurately across novel regions—without per-region fine-tuning.
 
 ## 🎯 Why It Matters
 
